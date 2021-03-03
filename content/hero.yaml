@@ -1,13 +1,14 @@
-headline: The perfect template to showcase your awesome product and service.
+headline: Shisha Delivery 
+headline2: Guildford
 
-body: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+body: Ready to use shisha right to your doorstep - Order NOW
 
 button1:
-  label: Free Trial
-  to: '/#'
+  label: Order Now
+  to: '/#subscribe'
 
 button2:
   label: Learn More
   to: '/#features'
 
-image: images/hero-image.png
+image: images/logo_black_white.png

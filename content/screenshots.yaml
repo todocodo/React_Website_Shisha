@@ -1,35 +1,35 @@
-title: Product Screenshots.
-body: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+title: Gallery
+body: 
 screenshots:
   -
-    big: 'b-line-icons.jpg'
-    thumb: 'line-icons.jpg'
-    caption: 'Line Icons'
+    big: 'colourful.jpg'
+    thumb: 'colourful_sm.jpg'
+    caption: 'Shisha Nature'
   -
-    big: 'b-hipster.jpg'
-    thumb: 'hipster.jpg'
-    caption: 'Hipster'
+    big: 'purple.jpg'
+    thumb: 'purple_sm.jpg'
+    caption: 'Purple Smoke'
   -
-    big: 'b-authentic-vintage.jpg'
-    thumb: 'authentic-vintage.jpg'
-    caption: 'Authentic Vintage'
+    big: 'smoke.png'
+    thumb: 'smoke_sm.png'
+    caption: 'Shisha Wallpaper'
   -
-    big: 'b-spot-uv-logo.jpg'
-    thumb: 'spot-uv-logo.jpg'
-    caption: 'Spot UV Logo'
+    big: 'glass_bowl.jpg'
+    thumb: 'glass_bowl_sm.jpg'
+    caption: 'Bowl Shisha'
   -
-    big: 'b-tshirt-mockup.jpg'
-    thumb: 'tshirt-mockup.jpg'
-    caption: 'TShirt Mockup'
+    big: 'shisha-green.jpg'
+    thumb: 'shisha-green_sm.jpg'
+    caption: 'Alien Shisha'
   -
-    big: 'b-abstract-vector.jpg'
-    thumb: 'abstract-vector.jpg'
-    caption: 'Abstract Vector'
+    big: 'smoke_badge.jpg'
+    thumb: 'smoke_badge_sm.jpg'
+    caption: 'Blue Shisha'
   -
-    big: 'b-embossed-paper.jpg'
-    thumb: 'embossed-paper.jpg'
-    caption: 'Embossed Paper'
+    big: 'military_shisha.jpg'
+    thumb: 'military_shisha_sm.jpg'
+    caption: 'Military'
   -
-    big: 'b-judah.jpg'
-    thumb: 'judah.jpg'
-    caption: 'Judah'
+    big: 'fire_bowl.jpg'
+    thumb: 'fire_bowl_sm.jpg'
+    caption: 'Fire Bowl'

@@ -7,11 +7,11 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Woo - Free Responsive HTML5/CSS3 Template`,
+    title: `Shisha Delivery Guildford`,
     author: {
-      name: `Joe Bloggs`,
+      name: `Todor Ranchev`,
     },
-    description: `Woo is a clean, modern, landing page site template.`,
+    description: `This website consist of an information about the Shisha Delivery Guildford.`,
 
     /* Choose and arrange the sections to be displayed on the landing page */
     sections: [
@@ -28,31 +28,31 @@ module.exports = {
     menuItems: [
       {path: 'features', label: 'Features'},
       {path: 'pricing', label: 'Pricing'},
-      {path: 'screenshots', label: 'Screenshots'},
-      {path: 'testimonials', label: 'Testimonials'},
-      {path: 'subscribe', label: 'Subscribe'},
+      {path: 'call-to-action', label: 'Flavours'},
+      {path: 'screenshots', label: 'Gallery'},
+      {path: 'subscribe', label: 'Order'},
     ],
 
     /* Provide social media accounts. Remove or add new services. (The value 'fa' is the name of FontAwesome icon to display. Choose from here: https://fontawesome.com/cheatsheet/free/brands ) */
     social: [
       { service: `Facebook`,
-        url : `https://facebook.com/styleshout`,
+        url : `https://www.instagram.com/shisha.delivery.guildford`,
         fa: `facebook` },
-      { service: `Twitter`,
-        url : `https://twitter.com/styleshout`,
-        fa: `twitter` },
-      { service: `GitHub`,
-        url : `https://github.com/desmukh/gatsby-starter-woo`,
-        fa: `github` },
+      { service: `Instagram`,
+        url : `https://www.instagram.com/shisha.delivery.guildford`,
+        fa: `instagram` },
+      { service: `Youtube`,
+        url : `https://www.youtube.com/channel/UCv5Z0oIfjJYSFjm7MBSMAoA`,
+        fa: `youtube` },
     ],
 
     /* Path to favicon and logo (located inside the 'static' folder) */
-    favicon: `favicon.png`,
-    logo: `/images/logo.png`,
+    favicon: `logo_shisha_only_noback.png`,
+    logo: `/images/logo_shisha_only_white_noback.png`,
 
     /* Logo and text to show in footer */
     footer: {
-      logo: `/images/footer-logo.png`,
+      logo: `/images/logo_black_white.png`,
       text: `This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.`,
     },
 
@@ -63,10 +63,11 @@ module.exports = {
       line3: `94043 US`,
     },
     contacts: [
-      { text: `647.343.8234`, url: `tel:6473438234` },
-      { text: `123.456.7890`, url: `tel:1234567890`},
-      { text: `someone@woosite.com`, url: `mailto:someone@woo.com`},
+      { text: `07564545608`, url: `tel:07564545608` },
+      { text: `shishadeliverytr@gmail.com`, url: `mailto:shishadeliverytr@gmail.com`},
     ],
   },
-  plugins: [ `gatsby-plugin-anchor-links`, `gatsby-plugin-smoothscroll`, `react-scrollspy` ],
+  plugins: [ 
+    `gatsby-plugin-anchor-links`, `gatsby-plugin-smoothscroll`, `react-scrollspy` 
+  ],
 }

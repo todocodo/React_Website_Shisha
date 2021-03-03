@@ -1,20 +1,44 @@
 -
-  name: design
-  title: Simple, Clean and Modern Design.
-  body: Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
-  image: 'images/feature-image-1.png'
+  heading: Why Are We Special
+
+  name: special
+  title: High Class
+  body: All shishas are from a high class manufacturer - Dschinni
+  image: 'images/shisha-green.jpg'
+  fa: star
+
+  title_2: Beautifully Colourised Shishas
+  body_2: Various of water-colors that will make your shisha unique and pritty
+  fa_2: palette
+
+  title_3: Order 1 get 2 shishas - FREE
+  body_3: For every shisha ordered for a NIGHT - get additional bowl with flavour for FREE
+  fa_3: plus
+ 
+  title_4: We Provide Everything - FREE
+  body_4: Everything that is needed for a good shisha will be provided, FREE of charge - Planty of coals, a coal burner and instructions on how to use.
+  fa_4: plus
 -
-  name: responsive
-  title: Fully Responsive.
-  body: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology so you'll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
-  image: 'images/feature-image-2.png'
--
-  name: cross-browser
-  title: Cross-Browser Compatible.
-  body: Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
-  image: 'images/feature-image-3.png'
+  heading: Additional Information
+
+  name: additional
+  title: COVID-19 
+  body: Every shisha is disinfected. Mouth tips are provided and all shishas are made and delivered with gloves and masks.
+  image: 'images/water-color.jpg'
+  fa: shield-alt
+
+  title_2: Instructions on how to use it  
+  body_2: We highly recommend to download the instructions. All the steps including safety measures are described.
+  fa_2: file-alt
+
+  # title_3: Instructions on how to use it  
+  # body_3: We highly recommend to download the instructions. All the steps including safety measures are described.
+  # fa_3: shield-alt
+
 -
   name: video
-  title: Video Support.
-  body: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
-  vimeo: 14592941
+  videoTitle: Add
+  title: Watch Our Video
+  body: https://www.youtube.com/watch?v=1Du2Gas-huE
+  vimeo: 'videos/ShishaDelivery.mp4'
+

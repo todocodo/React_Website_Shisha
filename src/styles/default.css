@@ -494,7 +494,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 600 14px/24px 'Montserrat', sans-serif;
-   background: #11ABB0;
+   background: orange;
    color: #fff;
    display: inline-block;
 	text-decoration: none;
@@ -521,7 +521,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #14D0D6;
+   background: rgb(255, 194, 81);
    color: #fff;
 }
 
@@ -530,7 +530,7 @@ button:active,
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
-   background: #11ABB0;
+   background: orange;
    color: #fff;
 }
 

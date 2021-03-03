@@ -1,7 +1,100 @@
-title:
-  text: Host This Template on Dreamhost.
-  url: http://www.dreamhost.com/r.cgi?287326|STYLESHOUT
-body: 'Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>. Get <span>$50 off</span> when you sign up with the promocode <span>STYLESHOUT</span>.'
-button:
-  label: Sign Up Now
-  url: 'http://www.dreamhost.com/r.cgi?287326|STYLESHOUT'
+# title:
+#   text: Host This Template on Dreamhost.
+#   url: http://www.dreamhost.com/r.cgi?287326|STYLESHOUT
+# body: 'Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>. Get <span>$50 off</span> when you sign up with the promocode <span>STYLESHOUT</span>.'
+# button:
+#   label: Sign Up Now
+#   url: 'http://www.dreamhost.com/r.cgi?287326|STYLESHOUT'
+title: Our Flavours
+cards:
+  -
+    img: 'images/flavours/berlin_night_test.jpg'
+    title: Adalya - Berlin Nights
+    flavour: Peach and Mint
+    info: The wonderful mixture of peach with mint will bring you to long nights with intense smoke.
+  -
+    img: 'images/flavours/blue_orange_cut.jpg'
+    title: Adalya - Blue Orange
+    flavour: Blueberry and Orange
+    info: When the quality of tobacco is manifested by smoking, you will enjoy the orange with the "ice" freshness.
+  -
+    img: 'images/flavours/hawaii_cut.jpg'
+    title: Adalya - Hawaii
+    flavour: Pineapple and Mint
+    info: All the energy of Hawaii will accompany you in every breath of pineapple and mint
+  -
+    img: 'images/flavours/lady_killer_cut.jpg'
+    title: Adalya - Lady Killer
+    flavour: Melon, Mango and Berries
+    info: Fragrant melon, juicy sweet mango, a slight shade of forest berries and soft mint. The taste is top-end.
+  -
+    img: 'images/flavours/love66_cut.jpg'
+    title: Adalya - Love 66
+    flavour: Passion Fruit and Watermelon 
+    info: The taste is sweet, with floral notes and refreshing. One of the most popular Adalya flavour.
+  -
+    img: 'images/flavours/baku.jpg'
+    title: Adalya - Baku
+    flavour: Fruits 
+    info:  It will be just perfect for those who love fruit flavours, and at the same time want to cool off a bit while smoking a hookah.
+  -
+    img: 'images/flavours/angel_lips.jpg'
+    title: Adalya - Angel Lips
+    flavour: Melon and Raspberry
+    info: The taste of juicy aromatic melon, gradually revealing in the sweetness of ripe raspberries, complemented by the mint.
+  -
+    img: 'images/flavours/lusidrem.jpg'
+    title: Overdozz - Lusidrem
+    flavour: Watermelon Mint
+    info: You will think that you are dreaming with this delicious watermelon and frozen mint taste.
+  -
+    img: 'images/flavours/judgment_day.jpg'
+    title: Overdozz - Judgment Day
+    flavour: Creamy Peach and Coconut
+    info: An incredible creamy peach and coconut combination, you will not be indifferent when trying it!
+   
+  -  
+    img: 'images/flavours/psych_out.png'
+    title: Overdozz - Psych Out
+    flavour: Strong Mint Pineapple
+    info: A strong mint character and the subtlety of pineapple juice mixes once more to give you Psych Out.
+
+  -
+    img: 'images/flavours/one_night_stand.png'
+    title: Overdozz - One Night Stand
+    flavour: Passion Fruit Mango 
+    info: A vibrant mix of passion fruit and mango with a touch of orange citrus will shaken your night.
+  -
+    img: 'images/flavours/blue_mist.jpeg'
+    title: Starbuzz - Blue Mist
+    flavour: Blueberry Mint
+    info: One of the smoothest flavors you will ever smoke. A flavor that really explodes with thick smoke.
+
+  -
+    img: 'images/flavours/white_peach.jpeg'
+    title: Starbuzz - White Peach
+    flavour: White Peach
+    info: Savour the white peach richness as the luscious shisha replicates the peach delicacy. A delightful summer Hookah flavour.
+  -
+    img: 'images/flavours/two_apples.jpg'
+    title: Al Fakher - Two Apples
+    flavour: Apple
+    info: Delicate flavors of apples paired with tart anise undertones.
+
+  -
+    img: 'images/flavours/orange.jpg'
+    title: Al Fakher - Orange
+    flavour: Orange
+    info: The signature orange delight with a lingering zesty taste.
+
+  -
+    img: 'images/flavours/cherry_mint.jpg'
+    title: Al Fakher - Cherry Mint
+    flavour: Cherry Mint
+    info: A rich blend of flavorful cherries with a smooth finish of a mint.
+
+  -
+    img: 'images/flavours/grape_mint.jpg'
+    title: Al Fakher - Grape Mint
+    flavour: Grape Mint
+    info: The taste of mixed grapes with a delicate aroma of a mint

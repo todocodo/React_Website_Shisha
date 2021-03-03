@@ -1,3 +1,13 @@
-title: MailChimp signup form.
-body: Adding your own MailChimp powered email sign-up is easy. Grab the super slim code from your MailChimp account and drop the code here. Lastly, remove the link and style tags that comes with the embedded code and your good to go. All styling is within our stylesheet.
-small: We never share your information or use it to spam you.
+title: Order Here
+body: For orders you can call us or you can message us in instagram. Orders will be taken every day from 10am to 11pm. For any queries or questions regarding bookings or flavours or anything else please don't hesitate to contact us.
+body_2: Shishas for 3 hours can only be delivered before 6pm
+flavour: Haven't seen our selection of flavours? 
+link:
+  to: '#call-to-action'
+  label: Click Here
+fa: instagram
+social: Instagram
+insta: https://www.instagram.com/shisha.delivery.guildford
+number: +44 7564545608
+url: tel:07564545608
+small: Taking orders 10:00 - 23:00

@@ -197,7 +197,7 @@ ul.nav li.current button {
 
 #hero {
    padding-top: 66px;
-   background: #23292f url(img/smoke_bg.jpg);
+   background: #23292f url(img/smoke_bg_low.jpg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -210,7 +210,7 @@ ul.nav li.current button {
 (min-resolution: 192dpi) {
 
    #hero {
-      background: #23292f url(img/smoke_bg.jpg);
+      background: #23292f url(img/smoke_bg_low.jpg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;

@@ -2,8 +2,8 @@ title: Gallery
 body: 
 screenshots:
   -
-    big: 'colourful.jpg'
-    thumb: 'colourful_sm.jpg'
+    big: 'colourful_big_low.jpg'
+    thumb: 'colourful_sm_low.jpg'
     caption: 'Shisha Nature'
   -
     big: 'purple.jpg'
@@ -18,7 +18,7 @@ screenshots:
     thumb: 'glass_bowl_sm.jpg'
     caption: 'Bowl Shisha'
   -
-    big: 'shisha-green.jpg'
+    big: 'shisha_green_low.jpg'
     thumb: 'shisha-green_sm.jpg'
     caption: 'Alien Shisha'
   -
@@ -26,10 +26,10 @@ screenshots:
     thumb: 'smoke_badge_sm.jpg'
     caption: 'Blue Shisha'
   -
-    big: 'military_shisha.jpg'
-    thumb: 'military_shisha_sm.jpg'
+    big: 'military_shisha_low.jpg'
+    thumb: 'military_shisha_sm_low.jpg'
     caption: 'Military'
   -
-    big: 'fire_bowl.jpg'
-    thumb: 'fire_bowl_sm.jpg'
+    big: 'fire_bowl_low.jpg'
+    thumb: 'fire_bowl_sm_low.jpg'
     caption: 'Fire Bowl'

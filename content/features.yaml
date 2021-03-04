@@ -4,7 +4,7 @@
   name: special
   title: High Class
   body: All shishas are from a high class manufacturer - Dschinni
-  image: 'images/shisha-green.jpg'
+  image: 'images/shisha_green_low.jpg'
   fa: star
 
   title_2: Beautifully Colourised Shishas
@@ -35,10 +35,10 @@
   # body_3: We highly recommend to download the instructions. All the steps including safety measures are described.
   # fa_3: shield-alt
 
--
-  name: video
-  videoTitle: Add
-  title: Watch Our Video
-  body: https://www.youtube.com/watch?v=1Du2Gas-huE
-  vimeo: 'videos/ShishaDelivery.mp4'
+# -
+#   name: video
+#   videoTitle: Add
+#   title: Watch Our Video
+#   body: https://www.youtube.com/watch?v=1Du2Gas-huE
+#   vimeo: 'videos/ShishaDelivery.mp4'
 

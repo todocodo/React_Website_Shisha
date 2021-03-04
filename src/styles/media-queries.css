@@ -176,8 +176,8 @@
       border: none;
       color: #fff;
       font-size: 25px;
-      height: 84px;
-      line-height: 84px;
+      height: 73px;
+      line-height: 73px;
       float: right;
 
       text-shadow: none;
@@ -255,6 +255,10 @@
    header .logo {
       margin-right: 36px;
    }
+/* 
+   header {
+      height: 64x;
+   } */
 
    /* Hero Section
    -------------------------------------------------------------------- */
@@ -325,10 +329,6 @@
       float: none;
    }
 
-   #features h3 {
-      
-   }
-
 
    /* Pricing Section
    ------------------------------------------------------------------- */
@@ -340,7 +340,7 @@
    /* Call To Action Section
    ----------------------------------------------------------------- */
    #call-to-action {
-      padding-top: 35px;
+      padding-top: 75px;
       text-align: center;
    }
 

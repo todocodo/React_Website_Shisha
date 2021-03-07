@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import { AnchorLink } from "gatsby-plugin-anchor-links"
 import content from "../../content/pricing.yaml"
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -40,9 +40,7 @@ export default () => {
                   )}
                 </ul>
                 <footer className="plan-sign-up">
-                  <Link className="button" to={ plan.signup.to }>
-                    { plan.signup.label }
-                  </Link>
+                <AnchorLink className="button" to={plan.signup.to}>{plan.signup.label}</AnchorLink>
                 </footer>
               </div>
             </div>

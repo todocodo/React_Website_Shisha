@@ -3,7 +3,7 @@ body: For orders you can call us or you can message us in instagram. Orders will
 body_2: Shishas for 3 hours can only be delivered before 6pm
 flavour: Haven't seen our selection of flavours? 
 link:
-  to: '#call-to-action'
+  to: '/#call-to-action'
   label: Click Here
 fa: instagram
 social: Instagram

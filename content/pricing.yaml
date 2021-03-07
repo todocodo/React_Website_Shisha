@@ -39,7 +39,7 @@ plans:
         text: All Night
     signup:
       label: Order
-      to: '#subscribe'
+      to: '/#subscribe'
 
   -
     title: Premium
@@ -79,7 +79,7 @@ plans:
         text: All Night
     signup:
       label: Order
-      to: '#subscribe'
+      to: '/#subscribe'
   -
     title: Standard
     price: £27.00
@@ -118,7 +118,7 @@ plans:
         text: All Night
     signup:
       label: Order
-      to: '#subscribe'
+      to: '/#subscribe'
   -
     title: Standard
     price: £23.00
@@ -157,4 +157,4 @@ plans:
         text: All Night
     signup:
       label: Order
-      to: '#subscribe'
+      to: '/#subscribe'

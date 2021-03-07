@@ -6,6 +6,7 @@ export default () => (
 
   <section id="call-to-action">
     <h1>{content.title}</h1>
+    
     <div className="row text-center">
       <div className="cards_wrap">
         {content.cards.map((card, index) =>

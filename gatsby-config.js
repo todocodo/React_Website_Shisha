@@ -26,24 +26,30 @@ module.exports = {
 
     /* Configure the navigation menu */
     menuItems: [
-      {path: 'features', label: 'Features'},
-      {path: 'pricing', label: 'Pricing'},
-      {path: 'call-to-action', label: 'Flavours'},
-      {path: 'screenshots', label: 'Gallery'},
-      {path: 'subscribe', label: 'Order'},
+      { path: 'features', label: 'Features' },
+      { path: 'pricing', label: 'Pricing' },
+      { path: 'call-to-action', label: 'Flavours' },
+      { path: 'screenshots', label: 'Gallery' },
+      { path: 'subscribe', label: 'Order' },
     ],
 
     /* Provide social media accounts. Remove or add new services. (The value 'fa' is the name of FontAwesome icon to display. Choose from here: https://fontawesome.com/cheatsheet/free/brands ) */
     social: [
-      { service: `Facebook`,
-        url : `https://www.instagram.com/shisha.delivery.guildford`,
-        fa: `facebook` },
-      { service: `Instagram`,
-        url : `https://www.instagram.com/shisha.delivery.guildford`,
-        fa: `instagram` },
-      { service: `Youtube`,
-        url : `https://www.youtube.com/channel/UCv5Z0oIfjJYSFjm7MBSMAoA`,
-        fa: `youtube` },
+      {
+        service: `Facebook`,
+        url: `https://www.instagram.com/shisha.delivery.guildford`,
+        fa: `facebook`
+      },
+      {
+        service: `Instagram`,
+        url: `https://www.instagram.com/shisha.delivery.guildford`,
+        fa: `instagram`
+      },
+      {
+        service: `Youtube`,
+        url: `https://www.youtube.com/channel/UCv5Z0oIfjJYSFjm7MBSMAoA`,
+        fa: `youtube`
+      },
     ],
 
     /* Path to favicon and logo (located inside the 'static' folder) */
@@ -64,10 +70,11 @@ module.exports = {
     },
     contacts: [
       { text: `07564545608`, url: `tel:07564545608` },
-      { text: `shishadeliverytr@gmail.com`, url: `mailto:shishadeliverytr@gmail.com`},
+      { text: `shishadeliverytr@gmail.com`, url: `mailto:shishadeliverytr@gmail.com` },
     ],
   },
-  plugins: [ 
-    `gatsby-plugin-anchor-links`, `gatsby-plugin-smoothscroll`, `react-scrollspy` 
+  plugins: [
+    `gatsby-plugin-anchor-links`, `gatsby-plugin-smoothscroll`, `react-scrollspy`, `gatsby-remark-embed-video`, `gatsby-remark-responsive-iframe`, `gatsby-remark-images`
+    
   ],
 }

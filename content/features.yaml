@@ -1,44 +1,52 @@
 -
+  name: video
+  videoTitle: Add
+  heading: Watch Our Video
+  lists:
+    -
+      title: This is our youtube Video
+      body: 
+  video: https://www.youtube.com/embed/-sqpTTEpNC4
+
+
+-
   heading: Why Are We Special
 
   name: special
-  title: High Class
-  body: All shishas are from a high class manufacturer - Dschinni
   image: 'images/shisha_green_low.jpg'
-  fa: star
+  lists:
+    -
+      title: High Class
+      body: All shishas are from a high class manufacturer - Dschinni
+      fa: star
+    -
+      title: Beautifully Colourised Shishas
+      body: Various of water-colors that will make your shisha unique and pritty
+      fa: palette
 
-  title_2: Beautifully Colourised Shishas
-  body_2: Various of water-colors that will make your shisha unique and pritty
-  fa_2: palette
-
-  title_3: Order 1 get 2 shishas - FREE
-  body_3: For every shisha ordered for a NIGHT - get additional bowl with flavour for FREE
-  fa_3: plus
+    -
+      title: Order 1 get 2 shishas - FREE
+      body: For every shisha ordered for a NIGHT - get additional bowl with flavour for FREE
+      fa: plus
+    -
+      title: We Provide Everything - FREE
+      body: Everything that is needed for a good shisha will be provided, FREE of charge - Planty of coals, a coal burner and instructions on how to use.
+      fa: plus
  
-  title_4: We Provide Everything - FREE
-  body_4: Everything that is needed for a good shisha will be provided, FREE of charge - Planty of coals, a coal burner and instructions on how to use.
-  fa_4: plus
 -
   heading: Additional Information
-
-  name: additional
-  title: COVID-19 
-  body: Every shisha is disinfected. Mouth tips are provided and all shishas are made and delivered with gloves and masks.
+  name: additional 
   image: 'images/water-color.jpg'
-  fa: shield-alt
+  lists:
+    -
+      title: COVID-19
+      body: Every shisha is disinfected. Mouth tips are provided and all shishas are made and delivered with gloves and masks.
+      fa: shield-alt
 
-  title_2: Instructions on how to use it  
-  body_2: We highly recommend to download the instructions. All the steps including safety measures are described.
-  fa_2: file-alt
+    -
+      title: Instructions on how to use it  
+      body: We highly recommend to download the instructions. All the steps including safety measures are described.
+      pdf: "<a href='/files/Shisha Delivery TR_Instructions.pdf' download>Click here to download</a>"
+      fa: file-alt
 
-  # title_3: Instructions on how to use it  
-  # body_3: We highly recommend to download the instructions. All the steps including safety measures are described.
-  # fa_3: shield-alt
-
-# -
-#   name: video
-#   videoTitle: Add
-#   title: Watch Our Video
-#   body: https://www.youtube.com/watch?v=1Du2Gas-huE
-#   vimeo: 'videos/ShishaDelivery.mp4'
 

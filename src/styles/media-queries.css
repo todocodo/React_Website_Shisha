@@ -99,6 +99,11 @@
       margin-bottom: 6px;
    }
 
+   .video-embeded {
+      width: 100%;
+      height: 200px;
+   }
+
    /* Pricing Section
    ------------------------------------------------------------------- */
    .pricing-tables {
@@ -314,6 +319,10 @@
 
    /* Features Section
    --------------------------------------------------------------------- */
+   #features {
+      padding-bottom: 28px;
+   }
+
    #features .feature {
       margin-top: 12px;
       margin-bottom: 60px;
@@ -327,6 +336,11 @@
    #features .left {
       padding-right: 30px;
       float: none;
+   }
+
+   .video-embeded {
+      width: 100%;
+      height: 170px;
    }
 
 

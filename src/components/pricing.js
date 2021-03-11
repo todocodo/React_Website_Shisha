@@ -15,6 +15,7 @@ export default () => {
       <div className="row section-head">
         <h1>{ content.title }</h1>
         <p className="pricing-body">{ content.body }</p>
+        <p className="pricing-offer">{ content.offer }</p>
       </div>
 
       <div className="row">

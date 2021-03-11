@@ -423,6 +423,11 @@ ul.nav li.current button {
    letter-spacing: .5px;
 }
 
+.pricing-offer {
+   font-size: 25px;
+   color: red;
+}
+
 .plan-price .per {
    font-family: 'Open Sans', sans-serif;
    font-size: 15px;

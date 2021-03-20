@@ -27,11 +27,11 @@ cards:
     title: Adalya - Lady Killer
     flavour: Melon, Mango and Berries
     info: Fragrant melon, juicy sweet mango, a slight shade of forest berries and soft mint. The taste is top-end.
-  -
-    img: 'images/flavours/love66_cut.jpg'
-    title: Adalya - Love 66
-    flavour: Passion Fruit and Watermelon 
-    info: The taste is sweet, with floral notes and refreshing. One of the most popular Adalya flavour.
+  # -
+  #   img: 'images/flavours/love66_cut.jpg'
+  #   title: Adalya - Love 66
+  #   flavour: Passion Fruit and Watermelon 
+  #   info: The taste is sweet, with floral notes and refreshing. One of the most popular Adalya flavour.
   -
     img: 'images/flavours/baku.jpg'
     title: Adalya - Baku

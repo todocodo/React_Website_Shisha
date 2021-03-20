@@ -13,7 +13,7 @@
   heading: Why Are We Special
 
   name: special
-  image: 'images/shisha_green_low.jpg'
+  image: 'images/screenshots/big/red_shisha.jpg'
   lists:
     -
       title: High Class
@@ -21,7 +21,7 @@
       fa: star
     -
       title: Beautifully Colourised Shishas
-      body: Various of water-colors that will make your shisha unique and pritty
+      body: Various of water-colors that will make your shisha unique and pretty
       fa: palette
 
     -
@@ -30,7 +30,7 @@
       fa: plus
     -
       title: We Provide Everything - FREE
-      body: Everything that is needed for a good shisha will be provided, FREE of charge - Planty of coals, a coal burner and instructions on how to use.
+      body: Everything that is needed for a good shisha will be provided, FREE of charge - Plenty of coals, a coal burner and instructions on how to use.
       fa: plus
  
 -

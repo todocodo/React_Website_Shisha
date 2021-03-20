@@ -6,13 +6,13 @@ screenshots:
     thumb: 'colourful_sm_low.jpg'
     caption: 'Shisha Nature'
   -
-    big: 'purple.jpg'
-    thumb: 'purple_sm.jpg'
-    caption: 'Purple Smoke'
+    big: 'office_low.jpg'
+    thumb: 'office_sm_low.jpg'
+    caption: 'Office Shisha'
   -
-    big: 'smoke.png'
-    thumb: 'smoke_sm.png'
-    caption: 'Shisha Wallpaper'
+    big: 'red_shisha_low.jpg'
+    thumb: 'red_shisha_sm_low.jpg'
+    caption: 'Red Shisha'
   -
     big: 'glass_bowl.jpg'
     thumb: 'glass_bowl_sm.jpg'
@@ -26,9 +26,9 @@ screenshots:
     thumb: 'smoke_badge_sm.jpg'
     caption: 'Blue Shisha'
   -
-    big: 'military_shisha_low.jpg'
-    thumb: 'military_shisha_sm_low.jpg'
-    caption: 'Military'
+    big: 'lemon_shisha_low.jpg'
+    thumb: 'lemon_shisha_sm_low.jpg'
+    caption: 'Lemon Shisha'
   -
     big: 'fire_bowl_low.jpg'
     thumb: 'fire_bowl_sm_low.jpg'

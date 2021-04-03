@@ -18,20 +18,20 @@ cards:
     flavour: Blueberry and Orange
     info: When the quality of tobacco is manifested by smoking, you will enjoy the orange with the "ice" freshness.
   -
-    img: 'images/flavours/hawaii_cut.jpg'
-    title: Adalya - Hawaii
-    flavour: Pineapple and Mint
-    info: All the energy of Hawaii will accompany you in every breath of pineapple and mint
-  -
     img: 'images/flavours/lady_killer_cut.jpg'
     title: Adalya - Lady Killer
     flavour: Melon, Mango and Berries
     info: Fragrant melon, juicy sweet mango, a slight shade of forest berries and soft mint. The taste is top-end.
-  # -
-  #   img: 'images/flavours/love66_cut.jpg'
-  #   title: Adalya - Love 66
-  #   flavour: Passion Fruit and Watermelon 
-  #   info: The taste is sweet, with floral notes and refreshing. One of the most popular Adalya flavour.
+  -
+    img: 'images/flavours/love66_cut.jpg'
+    title: Adalya - Love 66
+    flavour: Passion Fruit and Watermelon 
+    info: The taste is sweet, with floral notes and refreshing. One of the most popular Adalya flavour.
+  -
+    img: 'images/flavours/skyfall.jpg'
+    title: Adalya - Skyfall
+    flavour: Watermelon and Peach
+    info: Did you miss the hot summer days? Juicy watermelon, sweet peach, and incredibly refreshing menthol await you.
   -
     img: 'images/flavours/baku.jpg'
     title: Adalya - Baku
@@ -58,7 +58,11 @@ cards:
     title: Overdozz - Psych Out
     flavour: Strong Mint Pineapple
     info: A strong mint character and the subtlety of pineapple juice mixes once more to give you Psych Out.
-
+  -
+    img: 'images/flavours/go_for_broke.png'
+    title: Overdozz - Go For Broke
+    flavour: Grape and Mint 
+    info: A traditional, ancestral grape flavour with subtle touches of Overdozz best mint. Dare yourself!
   -
     img: 'images/flavours/one_night_stand.png'
     title: Overdozz - One Night Stand

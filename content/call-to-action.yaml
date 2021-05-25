@@ -32,11 +32,11 @@ cards:
     title: Adalya - Skyfall
     flavour: Watermelon and Peach
     info: Did you miss the hot summer days? Juicy watermelon, sweet peach, and incredibly refreshing menthol await you.
-  -
-    img: 'images/flavours/baku.jpg'
-    title: Adalya - Baku
-    flavour: Fruits 
-    info:  It will be just perfect for those who love fruit flavours, and at the same time want to cool off a bit while smoking a hookah.
+  # -
+    # img: 'images/flavours/baku.jpg'
+    # title: Adalya - Baku
+    # flavour: Fruits 
+    # info:  It will be just perfect for those who love fruit flavours, and at the same time want to cool off a bit while smoking a hookah.
   -
     img: 'images/flavours/angel_lips.jpg'
     title: Adalya - Angel Lips
@@ -68,11 +68,6 @@ cards:
     title: Overdozz - One Night Stand
     flavour: Passion Fruit Mango 
     info: A vibrant mix of passion fruit and mango with a touch of orange citrus will shaken your night.
-  -
-    img: 'images/flavours/blue_mist.jpeg'
-    title: Starbuzz - Blue Mist
-    flavour: Blueberry Mint
-    info: One of the smoothest flavors you will ever smoke. A flavor that really explodes with thick smoke.
 
   -
     img: 'images/flavours/white_peach.jpeg'

@@ -489,7 +489,10 @@ ul.features li:nth-child(even) {}
    background-color: orange;
 }
 
-
+.instagram_pricing {
+   margin-right: 18px;
+   font-size: 20px;
+}
 
 /* ------------------------------------------------------------------ */
 /* c. Screenshots

@@ -17,9 +17,11 @@ export default () => (
     <div className="row section-head">
       <div className="twelve columns">
         <h1>{ content.title }</h1>
-        <p>{ content.body }</p>
+
+        <p dangerouslySetInnerHTML={{ __html: content.body }} />
         <p style={{color: 'red'}}>{ content.body_2 }</p>
         <p>{content.flavour}  <AnchorLink to={content.link.to}>{content.link.label}</AnchorLink></p>
+        
     </div>
   </div>
 
@@ -28,7 +30,7 @@ export default () => (
       <div id="mc_embed_signup">
           <ScrollAnimation animateIn="fadeInLeftBig" animateOnce={true}>
             <a href={content.insta} className="button">
-              <FontAwesomeIcon icon={ content.fa } />{content.social}
+              <i className="instagram_pricing"><FontAwesomeIcon icon={["fab", "instagram"]} /></i>{content.social}
             </a>
           </ScrollAnimation>
              {/* <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--> */}

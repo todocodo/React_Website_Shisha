@@ -1,10 +1,4 @@
-# title:
-#   text: Host This Template on Dreamhost.
-#   url: http://www.dreamhost.com/r.cgi?287326|STYLESHOUT
-body: 'Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>. Get <span>$50 off</span> when you sign up with the promocode <span>STYLESHOUT</span>.'
-# button:
-#   label: Sign Up Now
-#   url: 'http://www.dreamhost.com/r.cgi?287326|STYLESHOUT'
+
 title: Our Flavours
 cards:
   -
@@ -27,11 +21,11 @@ cards:
     title: Adalya - Love 66
     flavour: Passion Fruit and Watermelon 
     info: The taste is sweet, with floral notes and refreshing. One of the most popular Adalya flavour.
-  -
-    img: 'images/flavours/skyfall.jpg'
-    title: Adalya - Skyfall
-    flavour: Watermelon and Peach
-    info: Did you miss the hot summer days? Juicy watermelon, sweet peach, and incredibly refreshing menthol await you.
+  # -
+  #   img: 'images/flavours/skyfall.jpg'
+  #   title: Adalya - Skyfall
+  #   flavour: Watermelon and Peach
+  #   info: Did you miss the hot summer days? Juicy watermelon, sweet peach, and incredibly refreshing menthol await you.
   # -
     # img: 'images/flavours/baku.jpg'
     # title: Adalya - Baku
@@ -63,11 +57,11 @@ cards:
     title: Overdozz - Go For Broke
     flavour: Grape and Mint 
     info: A traditional, ancestral grape flavour with subtle touches of Overdozz best mint. Dare yourself!
-  -
-    img: 'images/flavours/one_night_stand.png'
-    title: Overdozz - One Night Stand
-    flavour: Passion Fruit Mango 
-    info: A vibrant mix of passion fruit and mango with a touch of orange citrus will shaken your night.
+  # -
+  #   img: 'images/flavours/one_night_stand.png'
+  #   title: Overdozz - One Night Stand
+  #   flavour: Passion Fruit Mango 
+  #   info: A vibrant mix of passion fruit and mango with a touch of orange citrus will shaken your night.
 
   -
     img: 'images/flavours/white_peach.jpeg'

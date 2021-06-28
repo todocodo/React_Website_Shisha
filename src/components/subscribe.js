@@ -16,8 +16,11 @@ export default () => (
   <section id="subscribe">
     <div className="row section-head">
       <div className="twelve columns">
-        <h1>{ content.title }</h1>
+        {/* commended out for the period of June to October */}
+        {/* <h1>{ content.title }</h1> */}
 
+        <h5 className="subscribe-announcement">{ content.announcement }</h5>
+        <h5 className="subscribe-sorry">{ content.sorry }</h5>
         <p dangerouslySetInnerHTML={{ __html: content.body }} />
         <p style={{color: 'red'}}>{ content.body_2 }</p>
         <p>{content.flavour}  <AnchorLink to={content.link.to}>{content.link.label}</AnchorLink></p>

@@ -314,6 +314,13 @@ ul.nav li.current button {
    background: rgb(241, 188, 89);
 }
 
+.hero-announcement {
+   font-size: 27px;
+   color: red;
+   text-align: center;
+
+}
+
 /* ------------------------------------------------------------------ */
 /* d. Features Section
 /* ------------------------------------------------------------------ */
@@ -1009,6 +1016,16 @@ ul.features li:nth-child(even) {}
    font-family: 'Montserrat', sans-serif;
    width: 47%;
    text-align: center;
+}
+
+.subscribe-announcement {
+   font-size: 30px;
+   color: red;
+}
+
+.subscribe-sorry {
+   color: orange;
+   margin-bottom: 15px;
 }
 
 

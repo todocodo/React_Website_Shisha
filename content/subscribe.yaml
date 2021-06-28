@@ -1,4 +1,6 @@
 title: Order Here
+announcement: "NO orders from June to October"
+sorry: Sorry for the inconvenience
 body: For orders please <span style="color:orange;">message</span> us on <span style="color:orange;">instagram</span>. Orders will be taken every day from 10am to 11pm. For any queries or questions regarding bookings or flavours or anything else please don't hesitate to contact us.
 body_2: Shishas for 3 hours can only be delivered before 6pm
 flavour: Haven't seen our selection of flavours? 
@@ -8,6 +10,6 @@ link:
 fa: instagram
 social: Instagram
 insta: https://www.instagram.com/shisha.delivery.guildford
-number: +44 7745146607
-url: tel:07745146607
+number: +44 7564545608
+url: tel:07564545608
 small: Taking orders 10:00 - 00:00

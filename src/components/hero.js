@@ -16,9 +16,13 @@ export default () => (
           <h1 className="responsive-headline hero-text-2">{content.headline2}</h1> 
         </div>
         <p className="hero-body">{content.body}</p>
+        <p className="hero-announcement">{content.announcement}</p>
 
         <div className="buttons">
-          <AnchorLink className="button trial animated shake" to={content.button1.to}>{content.button1.label}</AnchorLink>
+          {/* <AnchorLink className="button trial animated shake" to={content.button1.to}>{content.button1.label}</AnchorLink> */}
+
+          {/* Just delete the to function so that the link is broken in purpouse */}
+          <AnchorLink className="button trial animated shake">{content.button1.label}</AnchorLink>
           <AnchorLink className="button learn-more" to={content.button2.to}>{content.button2.label}</AnchorLink>
         </div>
 

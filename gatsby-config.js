@@ -69,7 +69,7 @@ module.exports = {
       line3: `94043 US`,
     },
     contacts: [
-      { text: `07745146607`, url: `tel:07745146607` },
+      { text: `07564545608`, url: `tel:07564545608` },
       { text: `shishadeliverytr@gmail.com`, url: `mailto:shishadeliverytr@gmail.com` },
     ],
   },
